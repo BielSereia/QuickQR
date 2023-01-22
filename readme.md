@@ -19,7 +19,7 @@ A resposta será um arquivo SVG com o QR Code gerado. O arquivo pode ser baixado
 ## Exemplo de uso
 
 `GET http://localhost:3000/qr?url=https://github.com/BielSereia/QuickQR`
-![a](https://i.imgur.com/qr-example.png)
+![](https://raw.githubusercontent.com/BielSereia/QuickQR/7ebad48844d0b719b8f271e8cbc5ee2cbd06d35a/assets/qr.svg)
 
 ## Tecnologias utilizadas
 
